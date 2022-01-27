@@ -1,0 +1,20 @@
+.btn {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    max-width: 160px;
+    position: relative;
+    text-transform: uppercase;
+    margin: 16px;
+    padding: 10px;
+    color: #fff;
+    border-radius: 8px;
+    background-color: #ffca21;
+  }
+  .btn:hover {
+    background-color: #f9bf00;
+  }
+  hr{
+      margin: 12px;
+  }
+  
